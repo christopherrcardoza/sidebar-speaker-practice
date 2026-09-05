@@ -2,7 +2,7 @@
 
 [Open the free speaker stage](https://christopherrcardoza.github.io/sidebar-speaker-practice/)
 
-No account required. Includes 2-, 3-, 4-, and 5-person practice, editable speaker titles, a portrait library, customizable keys, illustrated instructions, optional hand and experimental voice-tone cues, and transcript/pedal controls.
+No account required. Includes 1-, 2-, 3-, 4-, and 5-person practice, editable speaker titles, a portrait library, customizable keys, illustrated instructions, optional hand and experimental voice-tone cues, and transcript/pedal controls. Close your fist to reset the hand cue, then show the next number. In combined mode, lower your hand to resume voice switching.
 
 Import PDF, Word DOCX, or text; review speaker labels; then follow the transcript with local English speech recognition. Documents and microphone audio stay on your device. The first microphone setup downloads about 40 MB. Scanned PDFs need OCR first. Recognition is experimental; Next / F8 remains available for corrections.
 
