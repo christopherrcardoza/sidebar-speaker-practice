@@ -1,0 +1,1 @@
+import{n as e}from"./page-nukMDSfO.js";export{e as assetPath};
