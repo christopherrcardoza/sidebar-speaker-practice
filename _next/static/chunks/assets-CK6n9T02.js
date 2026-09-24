@@ -1,0 +1,1 @@
+import{n as e}from"./page-BSYrIKaE.js";export{e as assetPath};
