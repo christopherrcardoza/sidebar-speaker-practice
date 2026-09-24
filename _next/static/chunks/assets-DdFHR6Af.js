@@ -1,1 +1,0 @@
-import{t as e}from"./page-CDM3vkk3.js";export{e as assetPath};
