@@ -1,0 +1,1 @@
+import{t as e}from"./page-Ba0RsRsS.js";export{e as assetPath};
