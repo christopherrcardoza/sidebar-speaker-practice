@@ -1,6 +1,6 @@
 # Sidebar — Real-Time Speaker Practice
 
-[Open the Sidebar classroom preview](https://christopherrcardoza.github.io/sidebar-speaker-practice/)
+[Open the Sidebar classroom preview](https://sidebarspeaker.com/)
 
 No account required. Includes Jury Charge, Literary with a separate reader, a practice timer, and 1-, 2-, 3-, 4-, and 5-person practice, editable speaker titles, a portrait library, customizable keys, illustrated instructions, optional hand and voice controls, and transcript/pedal controls. Voice match is opt-in, runs the bundled local WeSpeaker speaker-embedding model in the browser, and stores profiles only in the local browser; MFCC is retained only as a model-load fallback. Forget all voices removes local profiles; uncertain matches keep the current speaker. Tone remains the default voice mode. Close your fist to reset the hand cue, then show the next number. In combined mode, lower your hand to resume voice switching.
 
