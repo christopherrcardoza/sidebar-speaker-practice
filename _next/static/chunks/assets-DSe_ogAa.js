@@ -1,0 +1,1 @@
+import{n as e}from"./page-DDchII8l.js";export{e as assetPath};
