@@ -1,0 +1,1 @@
+import{t as e}from"./page-BOtGd_0c.js";export{e as assetPath};
