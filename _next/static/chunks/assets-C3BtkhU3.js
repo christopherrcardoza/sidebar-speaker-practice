@@ -1,0 +1,1 @@
+import{t as e}from"./page-Ct26Lx0b.js";export{e as assetPath};
