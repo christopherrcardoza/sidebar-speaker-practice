@@ -1,0 +1,1 @@
+import{t as e}from"./page-DB-iO4hg.js";export{e as assetPath};
