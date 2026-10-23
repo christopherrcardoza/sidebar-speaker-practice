@@ -1,0 +1,1 @@
+import{n as e}from"./page-_4rknpV9.js";export{e as assetPath};
