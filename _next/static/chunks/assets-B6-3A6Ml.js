@@ -1,1 +1,0 @@
-import{n as e}from"./page-CM1CNkNb.js";export{e as assetPath};
