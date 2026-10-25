@@ -76,8 +76,13 @@
   "type": "Appellate argument",
   "kind": "speakers",
   "minutes": 4,
-  "speakers": 2,
-  "source": "Supreme Court of the United States, March 22, 2023 · public record (supremecourt.gov)"
+  "speakers": 3,
+  "source": "Supreme Court of the United States, March 22, 2023 · public record (supremecourt.gov)",
+  "seats": {
+   "CHIEF JUSTICE ROBERTS": "court",
+   "JUSTICE THOMAS": "witness",
+   "MS. BLATT": "attorney"
+  }
  },
  {
   "id": "senate-nominations-hearing",
@@ -104,12 +109,12 @@
   "source": "Eleventh Circuit Pattern Jury Instructions (Criminal), P1 · public domain (U.S. Courts)"
  },
  {
-  "id": "literary-scandal-in-bohemia",
-  "title": "Arthur Conan Doyle, “A Scandal in Bohemia” (opening)",
+  "id": "literary-pride-and-prejudice",
+  "title": "Jane Austen, Pride and Prejudice (Chapter 1)",
   "type": "Literary",
   "kind": "literary",
-  "minutes": 4,
+  "minutes": 5,
   "speakers": 1,
-  "source": "The Adventures of Sherlock Holmes (1892) · public domain (Project Gutenberg #1661)"
+  "source": "Pride and Prejudice (1813) · public domain (Project Gutenberg #1342)"
  }
 ]
