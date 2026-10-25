@@ -82,6 +82,11 @@
    "CHIEF JUSTICE ROBERTS": "court",
    "JUSTICE THOMAS": "witness",
    "MS. BLATT": "attorney"
+  },
+  "titles": {
+   "court": "Chief Justice Roberts",
+   "witness": "Justice Thomas",
+   "attorney": "Ms. Blatt"
   }
  },
  {
@@ -97,6 +102,12 @@
    "MR. WALSH": "witness",
    "MS. BILYEU": "attorney",
    "MR. KENNEDY": "defense"
+  },
+  "titles": {
+   "court": "Senator Akaka (Chair)",
+   "witness": "Mr. Walsh (nominee)",
+   "attorney": "Ms. Bilyeu (nominee)",
+   "defense": "Mr. Kennedy (nominee)"
   }
  },
  {

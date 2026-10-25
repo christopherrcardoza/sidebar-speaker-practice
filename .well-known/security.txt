@@ -1,0 +1,4 @@
+Contact: mailto:privacy@recordwork.org
+Expires: 2027-10-25T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://sidebarspeaker.com/.well-known/security.txt
