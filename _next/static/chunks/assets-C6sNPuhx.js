@@ -1,0 +1,1 @@
+import{n as e}from"./page-DRVHL6No.js";export{e as assetPath};
