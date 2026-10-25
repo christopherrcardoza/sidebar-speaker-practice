@@ -1,0 +1,27 @@
+CHIEF JUSTICE ROBERTS: We'll hear argument this morning in Case 22-148, Jack Daniel's Properties versus VIP Products. Ms. Blatt.
+
+MS. BLATT: Mr. Chief Justice, and may it please the Court: This case involves a dog toy that copies Jack Daniel's trademark and trade dress and associates its whiskey with dog poop. After a four-day trial, the district court found both infringement and dilution. The Ninth Circuit erroneously reversed both holdings. As to infringement, the Ninth Circuit did not disturb the trial court's finding of likelihood of confusion. It instead reversed by applying an exception to the Lanham Act that the Second Circuit in Rogers versus Grimaldi invented for movie titles. Under Rogers, an expressive work is allowed to confuse as long as the use of a mark is artistically relevant and not explicitly misleading. But the Lanham Act has no exceptions for expressive works. It bars using marks for any goods when likely to cause confusion as to origin, sponsorship, or approval. Artistic relevance has nothing to do with confusion, and both implicit and explicit uses can confuse. Nor does constitutional avoidance justify Rogers. Rogers doesn't plausibly construe any text, and there are no First Amendment issues to avoid. Trademarks are ancient property rights that necessarily restrict speech to protect investment in goodwill and prevent consumer confusion, and parodies can be confusing. Now, as a practical matter, parodies won't confuse when differences in marks, markets, or message, typically ridicule, signal that the brand company didn't make the joke. But absent these features, pervasive copying and trading off a brand's goodwill tends to confuse. And survey results showing consumer confusion indicate that the parodist did too much copying and not enough distinguishing. As to dilution, the Ninth Circuit held that the exclusions for noncommercial use mean noncommercial speech. That holding renders neighboring exclusions superfluous, and it nullifies Congress's decision to limit the parody exclusion to uses other than as a designation of source. This Court should give noncommercial use its ordinary meaning, a use not involving the buying and selling of goods. I welcome your questions.
+
+JUSTICE THOMAS: Could a statement be -- could it fail Rogers and be misleading yet not be confusing under the Lanham Act?
+
+MS. BLATT: Well, the statutory test is likely to confuse --
+
+JUSTICE THOMAS: Yeah.
+
+MS. BLATT: -- as to sponsorship --
+
+JUSTICE THOMAS: I understand that, but I'm just wondering if the -- they're two ships passing in the night, that it could be misleading yet have nothing to do with confusing
+
+MS. BLATT: Well --
+
+JUSTICE THOMAS: -- likelihood to confuse.
+
+MS. BLATT: -- so, if it's misleading as to the sky being blue, you're right. That has nothing to do with confusion. But, if it's misleading as to the origin, sponsorship, or approval of the goods, then absolutely. Or services. So it's not -- you're right, misleading in the abstract is irrelevant under the Lanham Act. It's confusion as to origin, source, or sponsorship. So, if you just have a -- I mean, I can go on with examples, but there's lots of explicitly misleading speech that's -- doesn't violate the Lanham Act.
+
+JUSTICE THOMAS: So would we have to dispose of or overrule Rogers in order to focus more clearly on likelihood of confusion under the Lanham Act, or can they co-exist?
+
+MS. BLATT: No, obviously not, since every case recognizes that the -- the -- this is a -- the test involves a non-application of the Lanham Act because the Second Circuit thought the Lanham Act struck the wrong balance.
+
+JUSTICE THOMAS: So there's no way to keep Rogers and for you to win this?
+
+MS. BLATT: No, we can win this case on a narrow grounds. There's no way to keep Rogers and be faithful to the text. We can win this case by the Court assuming there's an atextual exception, and this Court can go on and invent an atextual break to that exception. It's unorthodox for this Court to do it, but you can certainly do that. And we've offered a bunch of distinctions. The problem is the text doesn't make any of these, and it's particularly -- particularly unorthodox for this Court to create exceptions as to parody and fair use when Congress put in two fair use explicit exceptions in the Act for both infringement and dilution and didn't see fit to do so here.

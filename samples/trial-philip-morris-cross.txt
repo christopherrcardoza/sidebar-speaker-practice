@@ -1,0 +1,65 @@
+BY MS. BROOKER:
+
+Q. Good morning, Dr. Heckman.
+
+A. Good morning.
+
+Q. Just so I can establish the amount of time we have here. You need to be out of here no later than 12:00 o'clock to catch your flight.
+
+A. That's correct.
+
+Q. Okay. Thank you. We're going to endeavor to do that. I would hope we would have no problem getting you out of here and finishing you. Now I just want to pick up where we left off yesterday where we were discussing the four studies that you criticize in your written direct, specifically: Pierce, Biener and Siegel, Choi and Sargent. Do you recall that that's where we left off?
+
+A. Yes.
+
+Q. Okay. And let's just take a look at the court's question which is how we ended yesterday, and your response.
+
+A. Where is that? I'm sorry.
+
+Q. Do we have a copy of yesterday's transcript?
+
+A. By the way, my notes concerned exactly these four studies. It would be helpful in any statement about these notes -- about these studies to actually have those notes.
+
+Q. I think that we're going to be able to proceed without the notes.
+
+A. Okay. Fine.
+
+THE COURT: It will be just a minute or two, I believe. It didn't appear they were extensive.
+
+A. Right. It's just a memory device for myself. There are a lot of studies here. But go ahead, please. Which page
+
+Q. If you would look at 18920. It should be at the very end of the transcript since it would be at the end of the day.
+
+A. Right. Yes. I see the page. I'm on the page.
+
+Q. Now, the court asked you a question -- and it's actually at 18921. The page is 18921.
+
+A. Yes.
+
+Q. Okay. Beginning at line 12, I believe.
+
+A. Yes.
+
+Q. Okay. The court says, "Let me just close with a question."
+
+A. Yes.
+
+Q. All right. "Am I correct that your objection was that these four studies used receptivity as a proxy for exposure to advertising?" And you responded, "Well, there are two points. One is the receptivity itself may be a consequence of choice...and the second is that the measure used is a proxy for advertising campaigns." And then you explained, "It's not a direct measure of media exposure. It's not a direct measure of the volume of activity directed by the advertising effort of the tobacco industry towards the customers." So you raised two issues; correct?
+
+A. Yes. One in direct response and the other to go back to an earlier remark I made in response to the question of the Judge.
+
+Q. And you feel that this creates a selection bias for those four studies; is that correct?
+
+A. No. These are different issues. There are two issues here on the table.
+
+Q. Okay.
+
+A. One is the endogeneity question, and the other is the question of whether or not the measure is a direct measure of media exposure, as I say here on line 21.
+
+Q. So one of your criticisms is that in order to measure the actual marketing environment that people are exposed to, the authors would need to do something specifically to address that problem. Is that right?
+
+A. Well, if one's interested, for example, in the impact of a billboard or the impact of some media campaign, a direct measure of it would be to look at what happens when people get more or less of the campaign, including none of it whatsoever. So you might have a campaign targeting towards cigarettes smoking in one town versus another and ask whether or not that affects the smoking rates. So that would be a measure of what aggregate activity is or activity on behalf of the media to support -- in the media to support smoking, say.
+
+Q. Okay. In order to do that type of a study, you would need disaggregated data?
+
+A. Well, you have to be careful by disaggregated. You would need at a -- at a -- data -- well, depending on how finally you can get it. As we discussed yesterday, it's better in many -- for many reasons to have disaggregated data. But this term is vague. So, if there was an advertising campaign in an area you would want to be able to get data on individuals, but in the entire area, so you would aggregate to the area to get a measure of the campaign. So that's what, so in some sense is aggregated the measure of advertising, because everybody lives in the area presumably would see it. That would be an assumption or people might operate under.

@@ -1,0 +1,1 @@
+import{n as e}from"./page-DLK5sIAw.js";export{e as assetPath};

@@ -1,0 +1,81 @@
+THE COURT: Mr. Langley, you may cross-examine.
+
+BY MR. LANGLEY:
+
+Q. You are Priya Dunlap, and you wrote the report on the Cinder Creek Bridge. Is that correct?
+
+A. Yes. Priya Dunlap. Dunlap is D-U-N-L-A-P. I am a professional engineer, license number 19-4428. The report is dated October 9th, 2025.
+
+Q. The bridge carries Osprey Avenue over Cinder Creek in Port Sable. You were there on September 18th, 2025?
+
+A. I was. One day, from about 8:10 in the morning until 3:40 in the afternoon. It was dry. At noon the air was 68 degrees Fahrenheit.
+
+Q. Who from Stonewharf Engineering was on the bridge with you?
+
+A. Two technicians and me. They took photographs and held the tape. I made the measurements in Table 2.
+
+MR. LANGLEY: I am marking the October 9th report as Exhibit 19. Forty-two pages, with the tables.
+
+MS. IWU: No objection to the marking. We may object if a line is read out of context.
+
+THE COURT: Exhibit 19 is marked for identification. You may inquire.
+
+Q. Table 2 lists a crack in the deck soffit at panel C-4. What width did you write down?
+
+A. Eighteen thousandths of an inch. That is 0.018 inches. I used a crack gauge, at the widest point I could reach from the inspection truck.
+
+Q. Page 11 of your report says a crack under 0.020 inches is narrow. You still called the spot at C-4 serious?
+
+A. I did, but not because of that width alone. The crack ran 7.5 feet, and the rebar cover there was three-quarters of an inch. The plans call for an inch and a half of cover.
+
+MS. IWU: Objection, asked and answered. She has given the width and the reason.
+
+THE COURT: Overruled. He asked why she chose that word. That is not the same question as the measurement.
+
+Q. You drilled two cores on a bridge with four spans. Only two?
+
+A. Yes. Each core was four inches across and eight inches long. Core 1 came from span 2. Core 2 came from span 3. Each of those spans is 86 feet clear. I did not core span 1 or span 4. Under span 4 the water was about 3 feet deep, and we could not set the drill.
+
+Q. The 1978 plans show a design strength of 4,000 pounds per square inch. What did the cores break at?
+
+A. Core 1 broke at 3,280 psi. Core 2 broke at 3,410 psi. The lab tested them on September 26th, 2025, seven days after they were drilled. The average of the two is 3,345 psi.
+
+MS. IWU: Objection, asked and answered. The average is arithmetic on figures already in the record.
+
+THE COURT: Sustained. Do not repeat the average. Next area, Mr. Langley.
+
+Q. Page 18 gives a chloride number. Read the result and the unit.
+
+A. At a depth of 2 inches, chloride was 0.22 percent by weight of cement. Our office treats 0.15 percent as the point where the steel may be at risk of corrosion. I did not make up that line. It is footnote 4.
+
+MR. LANGLEY: Your Honor, may we have a short sidebar? Footnote 4 cites a manual I do not believe was produced.
+
+THE COURT: Approach.
+
+MR. LANGLEY: If she is using a written threshold, that manual should have been with the report. I do not want a standard appearing for the first time today.
+
+MS. IWU: The footnote names the manual and the section. We produced it in the November set, document SW-14. He has had it.
+
+THE COURT: Then it is not a surprise. The footnote may stand. No one will read the manual aloud unless it is offered. Step back.
+
+Q. You gave the bridge an inventory rating factor of 0.86. A factor under 1.00 means it does not rate at the design load. Is that what your report says?
+
+A. Yes. The design truck was an HS-20, a 36-ton vehicle in that older system. An inventory factor of 0.86 is why I would post the bridge or limit it. The operating factor was 1.12. That is a separate and less cautious number.
+
+Q. You recommend a 12-ton posting. That figure is not in the September 18th field notes, is it?
+
+A. It is not. I calculated it in the office on October 2nd, from the core strengths and the cover at C-4. The 12-ton posting is on page 30 of Exhibit 19.
+
+MS. IWU: Objection, asked and answered. He has already asked whether the posting was written in the field.
+
+THE COURT: Sustained. She has said it was an office calculation. Do you have anything new?
+
+Q. One more subject. Stonewharf billed eight thousand four hundred dollars for the assignment, plus six hundred twenty dollars in lab fees?
+
+A. That is invoice 773, dated October 15th, 2025. The engineering fee was $8,400. The lab fees were $620. The invoice does not change the measurements.
+
+MR. LANGLEY: Nothing further.
+
+MS. IWU: No redirect, Your Honor.
+
+THE COURT: The witness may step down. We are in recess until 1:15.

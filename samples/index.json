@@ -1,0 +1,115 @@
+[
+ {
+  "id": "trial-contract-dispute",
+  "title": "Contract dispute: direct exam, exhibits, objections",
+  "type": "Courtroom trial",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 5,
+  "source": "Original practice take written for SideBar · all names are fictional"
+ },
+ {
+  "id": "trial-philip-morris-cross",
+  "title": "United States v. Philip Morris: cross-examining an economist (2005)",
+  "type": "Courtroom trial",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 3,
+  "source": "U.S. District Court, D.C., April 14, 2005 · public court record published by the U.S. Department of Justice"
+ },
+ {
+  "id": "trial-scopes-jury-selection",
+  "title": "The Scopes trial: choosing the jury (1925)",
+  "type": "Historic trial",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 5,
+  "source": "State of Tennessee v. John T. Scopes, July 10, 1925 · public domain (1925 stenographic report, archive.org)",
+  "seats": {
+   "THE COURT": "court",
+   "GENERAL STEWART": "attorney",
+   "Q · MR. DARROW": "defense",
+   "SHERIFF HARRIS": "defense2",
+   "PROSPECTIVE JUROR": "witness",
+   "A": "witness"
+  }
+ },
+ {
+  "id": "deposition-slip-and-fall",
+  "title": "Store employee deposition: slip and fall",
+  "type": "Deposition",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 3,
+  "source": "Original practice take written for SideBar · all names are fictional"
+ },
+ {
+  "id": "expert-bridge-inspection",
+  "title": "Engineering expert: bridge inspection cross-exam",
+  "type": "Expert witness",
+  "kind": "speakers",
+  "minutes": 5,
+  "speakers": 4,
+  "source": "Original practice take written for SideBar · all names are fictional"
+ },
+ {
+  "id": "hearing-preliminary",
+  "title": "Preliminary hearing: officer testifies",
+  "type": "Criminal hearing",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 4,
+  "source": "Original practice take written for SideBar · all names are fictional"
+ },
+ {
+  "id": "plea-change-of-plea",
+  "title": "Change of plea: the judge questions the defendant",
+  "type": "Plea and sentencing",
+  "kind": "speakers",
+  "minutes": 3,
+  "speakers": 4,
+  "source": "Original practice take written for SideBar · all names are fictional"
+ },
+ {
+  "id": "appellate-jack-daniels",
+  "title": "Supreme Court argument: Jack Daniel’s v. VIP Products (2023)",
+  "type": "Appellate argument",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 2,
+  "source": "Supreme Court of the United States, March 22, 2023 · public record (supremecourt.gov)"
+ },
+ {
+  "id": "senate-nominations-hearing",
+  "title": "Senate committee hearing: questions for nominees",
+  "type": "Legislative hearing",
+  "kind": "speakers",
+  "minutes": 4,
+  "speakers": 4,
+  "source": "U.S. Senate hearing S. Hrg. 111-1037 · public domain (govinfo.gov)",
+  "seats": {
+   "SENATOR AKAKA": "court",
+   "MR. WALSH": "witness",
+   "MS. BILYEU": "attorney",
+   "MR. KENNEDY": "defense"
+  }
+ },
+ {
+  "id": "jury-charge-preliminary",
+  "title": "Preliminary jury instructions (criminal)",
+  "type": "Jury charge",
+  "kind": "jury",
+  "minutes": 5,
+  "speakers": 1,
+  "source": "Eleventh Circuit Pattern Jury Instructions (Criminal), P1 · public domain (U.S. Courts)"
+ },
+ {
+  "id": "literary-scandal-in-bohemia",
+  "title": "Arthur Conan Doyle, “A Scandal in Bohemia” (opening)",
+  "type": "Literary",
+  "kind": "literary",
+  "minutes": 4,
+  "speakers": 1,
+  "source": "The Adventures of Sherlock Holmes (1892) · public domain (Project Gutenberg #1661)"
+ }
+]

@@ -1,0 +1,97 @@
+THE COURT: We are on the record in Case No. HG-26-118, the preliminary hearing in the State versus Elliot Marsh. Counsel, are you ready?
+
+MS. RAMIREZ: The State is ready, Your Honor.
+
+MR. DOYLE: Defense is ready.
+
+THE COURT: Call your witness, Ms. Ramirez.
+
+MS. RAMIREZ: The State calls Officer Idris Bellamy.
+
+THE COURT: Officer, you remain under the oath given this morning. Please sit down.
+
+BY MS. RAMIREZ:
+
+Q. State your name and assignment, and spell your last name.
+
+A. Idris Bellamy, B-E-L-L-A-M-Y. I am a patrol officer with the Harrow Glen Police Department, badge 4417. I have been there six years.
+
+Q. Were you on duty on January 12th, 2026?
+
+A. Yes, ma'am. Night shift, 6:00 p.m. to 6:00 a.m.
+
+Q. Did that shift take you to a construction yard?
+
+A. It did. At about 11:40 p.m. I was sent to Fenn Construction, 220 Old Quarry Road. The call said a compressor was missing from the yard.
+
+MR. DOYLE: Objection. Hearsay, whatever the caller claimed was missing.
+
+THE COURT: Overruled for a limited purpose. It explains why he went. It is not proof that the machine was stolen. Continue.
+
+Q. What did you see at the yard?
+
+A. The front gate was shut, but the chain on the equipment cage was hanging open. A cut link was on the ground. Inside the cage, a painted rectangle on the concrete was empty. The yard supervisor, Paul Greer, was waiting by the office.
+
+Q. What did you do next?
+
+A. I looked at an inventory sheet he handed me, and later that night I went to a second location. I would rather describe the machine from the photograph than from memory alone.
+
+MR. DOYLE: Objection, and I would like to approach. If a photo is coming in, we have not seen a print. I do not want a serial number read off a phone.
+
+THE COURT: Approach.
+
+MS. RAMIREZ: I have a still image printed this morning. I will mark the print. The phone stays down.
+
+THE COURT: Use the print only. Step back.
+
+Q. Officer, I am marking this photograph as State's Exhibit 2. Do you recognize it?
+
+A. Yes. That is the yellow tow-behind compressor I saw on a parked flatbed behind the diner on Maple Loop. The diner is about 1.2 miles from the yard. The photo shows the side panel, the model ST-90, and the serial plate.
+
+Q. Read the serial number.
+
+A. 44821.
+
+Q. Did you compare that plate to anything?
+
+A. Yes. The inventory sheet lists one ST-90, serial 44821, purchased in May of 2024. The sheet states a value of four thousand two hundred dollars. The plate matched the sheet. A scuff on the fender also matched an older inventory photo.
+
+MR. DOYLE: Objection. He did not buy the machine. The dollar figure is a number off a sheet that is not in evidence.
+
+THE COURT: Sustained as to value. The figure of four thousand two hundred dollars is stricken. The serial-number match may stand.
+
+MS. RAMIREZ: Understood. The State is not proving value through this witness.
+
+Q. Did you speak with anyone near the flatbed?
+
+A. A man by the truck said his name was Elliot Marsh. I had him spell it. Elliot, E-L-L-I-O-T. Marsh, M-A-R-S-H. He said he was waiting for a friend. He said he did not know a compressor was on the truck.
+
+Q. What happened after that conversation?
+
+A. He was detained at 1:06 a.m. and booked at the station at 1:48 a.m., on a charge of theft of construction equipment. I did not question him after the booking. I finished report number 26-04418 before I went off shift.
+
+MS. RAMIREZ: No further questions.
+
+THE COURT: Cross-examination, Mr. Doyle.
+
+BY MR. DOYLE:
+
+Q. You never saw Mr. Marsh drive that flatbed, did you?
+
+A. I did not. When I reached Maple Loop, the truck was parked and the engine was off.
+
+Q. And you do not know who cut the chain?
+
+A. I do not. I saw the open chain and the cut link. I did not see it happen.
+
+Q. The diner lot has no gate. Is that right?
+
+A. It is open all night. I wrote that in paragraph 9 of the report.
+
+MS. RAMIREZ: Objection, asked and answered. He has already said he did not see the truck move.
+
+THE COURT: Overruled. The question about the lot is new. The witness has answered. Anything else?
+
+MR. DOYLE: No, Your Honor. Nothing further.
+
+THE COURT: The witness is excused. I will hear short argument at 10:30, after the morning break.
