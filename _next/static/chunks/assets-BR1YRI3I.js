@@ -1,0 +1,1 @@
+import{n as e}from"./page-DxUoftl1.js";export{e as assetPath};
