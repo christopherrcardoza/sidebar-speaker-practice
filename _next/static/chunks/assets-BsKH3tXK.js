@@ -1,0 +1,1 @@
+import{n as e}from"./page-CTOQqPEx.js";export{e as assetPath};
