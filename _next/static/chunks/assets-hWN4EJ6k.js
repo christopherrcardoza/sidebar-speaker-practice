@@ -1,0 +1,1 @@
+import{n as e}from"./page-mi2cMfxc.js";export{e as assetPath};
