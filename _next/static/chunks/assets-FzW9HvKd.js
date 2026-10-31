@@ -1,0 +1,1 @@
+import{n as e}from"./page-B7dbmtV-.js";export{e as assetPath};
