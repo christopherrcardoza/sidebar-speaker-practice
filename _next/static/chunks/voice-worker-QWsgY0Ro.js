@@ -1,0 +1,1 @@
+var e=`/_next/static/voice-worker-WfVKzEcX.js`;export{e as default};
