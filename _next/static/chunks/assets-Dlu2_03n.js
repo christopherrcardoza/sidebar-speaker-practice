@@ -1,1 +1,0 @@
-import{n as e}from"./page-CcTigc4X.js";export{e as assetPath};

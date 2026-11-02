@@ -1,1 +1,0 @@
-import{n as e}from"./page-COB-aB75.js";export{e as assetPath};

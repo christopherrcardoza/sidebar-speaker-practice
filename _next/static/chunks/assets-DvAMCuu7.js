@@ -1,1 +1,0 @@
-import{n as e}from"./page-Be5x808V.js";export{e as assetPath};

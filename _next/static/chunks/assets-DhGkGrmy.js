@@ -1,1 +1,0 @@
-import{n as e}from"./page-FAr6PueP.js";export{e as assetPath};

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sidebarspeaker.com/sitemap.xml
+Sitemap: https://stenospeaker.com/sitemap.xml

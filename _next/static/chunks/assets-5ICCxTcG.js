@@ -1,1 +1,0 @@
-import{n as e}from"./page-BWWtRN6R.js";export{e as assetPath};
